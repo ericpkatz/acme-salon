@@ -1,0 +1,7 @@
+body {
+  font-family: verdana;
+}
+
+li.selected {
+  border: solid 2px olive;
+}
